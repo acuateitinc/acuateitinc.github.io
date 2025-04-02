@@ -1,0 +1,33 @@
+.hidecustom{display: none !important;}
+.bg-black{background-color: rgb(41, 62, 64) !important;}
+.bg-homepage {
+    background-image: url(../img/bg-homepage.jpg);
+	background-color: #ffffff !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body, .bg-white{background-color: rgb(247, 247, 247) !important;}
+
+.text-secondary-emphasis, .link-secondary {
+    color: #adb5bd !important;
+}
+
+.app-nav a.nav-link.py-4 {
+    padding-top: 35px !important;
+    padding-bottom: 35px !important;
+    color: #002E00;
+    font-size: 19px;
+	font-weight: bold;
+}
+
+.app-nav .navbar-nav .nav-link:hover {color: #80B6A1;}
+
+.text-black {color: #002E00 !important;}
+
+.bg-light {
+    background-color: #f9f9ee !important;
+	color: #010101;
+}
+
+.bg-homepage > .py-5 {margin-left: 150px !important}
