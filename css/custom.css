@@ -1,8 +1,8 @@
 .hidecustom{display: none !important;}
 .bg-black{background-color: rgb(41, 62, 64) !important;}
 .bg-homepage {
-    background-image: url(../img/bg-homepage.jpg);
-	background-color: #ffffff !important;
+    background-image: none !important;
+	background-color: #dee9d8 !important;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
