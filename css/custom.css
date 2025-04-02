@@ -7,6 +7,8 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.homepagebgOverride{background-color: #ebf2e8 !important;}
+
 .body, .bg-white{background-color: rgb(247, 247, 247) !important;}
 
 .text-secondary-emphasis, .link-secondary {
